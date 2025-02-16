@@ -18,5 +18,6 @@ public class Exercicio2 {
         } else {
             System.out.println("Aluno REPROVADO!!!");
         }
+        input.close();
     }
 }

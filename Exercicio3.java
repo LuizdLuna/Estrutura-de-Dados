@@ -20,5 +20,6 @@ public class Exercicio3 {
             float mult = num * i;
             System.out.println(num + " multiplicado por " + i + " = " + mult);
         }
+        input.close();
     }
 }
