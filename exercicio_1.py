@@ -1,3 +1,6 @@
+##Exercício 1: Tipos Primitivos e Operadores (faça esse em Python)
+#Descrição: Crie um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação, divisão, divisão inteira, módulo e exponenciação desses números.
+
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 
